@@ -40,4 +40,4 @@ Flask, SQLAlchemy, REST APIs
 ## 🌍 Connect with me
 
 LinkedIn: https://linkedin.com/in/yourprofile  
-Email: yourmail@gmail.com
+Email: nomaan.gagan@gmail.com
