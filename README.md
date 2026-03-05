@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Nomaan 👋
 
-<!--
-**nomaan-g/nomaan-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergraduate @ RBU  
+💻 Interested in Automation, AI, and Scalable Systems  
+🚀 Building real-world projects that solve business problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+Python • Flask • Django • REST APIs  
+Automation • n8n • Zapier  
+Pandas • Data Processing  
+Git • Docker • Linux  
+
+---
+
+## 🚀 Featured Projects
+
+### Sales Lead Automation Pipeline
+Automates cleaning, CRM upload, email sending and reporting for sales leads.
+
+Tech:
+Python, Pandas, SMTP, Excel Automation
+
+### Flask CRUD API
+REST API built using Flask with database integration.
+
+Tech:
+Flask, SQLAlchemy, REST APIs
+
+---
+
+## 📈 GitHub Stats
+
+![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌍 Connect with me
+
+LinkedIn: https://linkedin.com/in/yourprofile  
+Email: yourmail@gmail.com
