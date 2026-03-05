@@ -31,9 +31,7 @@ Flask, SQLAlchemy, REST APIs
 
 ---
 
-## 📈 GitHub Stats
 
-![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight)
 
 ---
 
