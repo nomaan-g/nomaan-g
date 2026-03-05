@@ -50,8 +50,8 @@ Tech: MongoDB • Express • React • Node.js • Docker
 ## GitHub Stats
 
 ![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight&hide_border=true)
-## Connect With Me
-## 🌐 Connect With Me
+
+##  Connect With Me
 
 <p align="center">
 
