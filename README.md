@@ -51,15 +51,20 @@ Tech: MongoDB • Express • React • Node.js • Docker
 
 ![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight&hide_border=true)
 ## Connect With Me
+## 🌐 Connect With Me
 
-LinkedIn  
-https://linkedin.com/in/nomaan-gagan
+<p align="center">
 
-LeetCode  
-https://leetcode.com/u/nomaan_g
+<a href="https://linkedin.com/in/nomaan-gagan">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
 
-GitHub  
-https://github.com/nomaan-g
+<a href="https://github.com/nomaan-g">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
 
-Email  
-nomaan.gagan@gmail.com
+<a href="https://leetcode.com/u/nomaan_g">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+</a>
+
+</p>
