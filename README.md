@@ -1,81 +1,69 @@
-# Nomaan Gagan
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nomaan%20Gagan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI/ML&descAlignY=60&descAlign=50)
+# Hi, I'm Nomaan 👋
 
-Automation Engineer | Python Developer | AI & Workflow Systems
-
-I build automation pipelines, backend systems, and AI-powered workflows that reduce manual effort and improve business efficiency.
-
-My focus is on designing reliable automation systems, integrating APIs, and building scalable tools that transform data into actionable workflows.
-
----
-
-## Professional Interests
-
-Automation Engineering & Workflow Systems  
-Python-based Data Pipelines  
-Backend Development & REST API Design  
-AI-assisted Automation & Intelligent Tools  
-System Integration and Business Process Automation  
-
----
-
-## Selected Projects
-
-### Lead Automation Pipeline
-Automated the processing of daily sales leads including data cleaning, CRM integration, automated email communication, and reporting.
-
-Tech:
-Python • Pandas • Excel Automation • SMTP • APIs
-
----
-
-### Flask CRUD API
-REST API for managing application data with structured routing, database integration, and modular backend design.
-
-Tech:
-Flask • Python • SQLAlchemy • REST APIs
-
----
-
-### Workflow Automation Experiments
-Collection of automation scripts and integrations for task scheduling, reporting, and API-based workflows.
-
-Tech:
-Python • APIs • Automation Scripts
-
----
-
+🎓 Computer Science (AI/ML) Student – RCOEM  
+💻 Interested in Automation, AI Systems, and Full-Stack Development  
+🚀 Building intelligent tools that automate workflows and solve real-world problems
+![Visitor Count](https://komarev.com/ghpvc/?username=nomaan-g&color=blue)
 ## Tech Stack
 
 ### Languages
-Python  
-JavaScript  
-SQL  
+![Python](https://skillicons.dev/icons?i=python)
+![javascript](https://skillicons.dev/icons?i=javascript)
+![cpp](https://skillicons.dev/icons?i=cpp)
 
-### Backend & APIs
-Flask  
-Django  
-REST APIs  
+### Frontend
+![react](https://skillicons.dev/icons?i=react)
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
 
-### Automation & Data
-Pandas  
-Excel Automation  
-API Integrations  
+### Databases
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+![mysql](https://skillicons.dev/icons?i=mysql)
 
-### Tools & Platforms
-Git & GitHub  
-Docker (Learning)  
-Linux  
-n8n / Zapier (Workflow Automation)
+### Tools
+![docker](https://skillicons.dev/icons?i=docker)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![postman](https://skillicons.dev/icons?i=postman)
+
+## Featured Projects
+
+### UniAssist – AI University Chatbot
+Voice-enabled chatbot that automates university queries using NLP.
+
+Tech: Python • Streamlit • MongoDB • Dialogflow • OCR • Speech AI
 
 ---
 
-## Current Focus
+### Lead Automation Pipeline
+Automates sales lead processing including data cleaning, CRM upload, email automation, and reporting.
 
-Building scalable automation systems and AI-assisted tools that simplify repetitive workflows and data operations.
+Tech: Python • Pandas • APIs • Excel Automation
 
 ---
 
+### ShopSphere – MERN E-Commerce Platform
+Full-stack e-commerce system with authentication, shopping cart, and AI-powered recommendations.
+
+Tech: MongoDB • Express • React • Node.js • Docker
+## GitHub Stats
+
+![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomaan-g&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nomaan-g&theme=tokyonight)
+![snake gif](https://github.com/nomaan-g/nomaan-g/blob/output/github-contribution-grid-snake.svg)
 ## Connect With Me
 
-LinkedIn: www.linkedin.com/in/your-linkedin  
-Email: your-email@gmail.com
+LinkedIn  
+https://linkedin.com/in/nomaan-gagan
+
+LeetCode  
+https://leetcode.com/u/nomaan_g
+
+GitHub  
+https://github.com/nomaan-g
+
+Email  
+nomaan.gagan@gmail.com
