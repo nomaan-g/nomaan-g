@@ -4,6 +4,7 @@
 🎓 Computer Science (AI/ML) Student – RCOEM  
 💻 Interested in Automation, AI Systems, and Full-Stack Development  
 🚀 Building intelligent tools that automate workflows and solve real-world problems
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=nomaan-g&color=blue)
 ## Tech Stack
 
