@@ -47,10 +47,23 @@ Tech: Python • Pandas • APIs • Excel Automation
 Full-stack e-commerce system with authentication, shopping cart, and AI-powered recommendations.
 
 Tech: MongoDB • Express • React • Node.js • Docker
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomaan-g&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=nomaan-g&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+![Nomaan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nomaan-g&theme=tokyo-night)
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
