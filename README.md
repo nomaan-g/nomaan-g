@@ -49,11 +49,7 @@ Full-stack e-commerce system with authentication, shopping cart, and AI-powered 
 Tech: MongoDB • Express • React • Node.js • Docker
 ## GitHub Stats
 
-![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomaan-g&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=nomaan-g&theme=tokyonight)
-![snake gif](https://github.com/nomaan-g/nomaan-g/blob/output/github-contribution-grid-snake.svg)
+![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomaan-g&show_icons=true&theme=tokyonight&hide_border=true)
 ## Connect With Me
 
 LinkedIn  
