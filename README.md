@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nomaan%20Gagan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI/ML&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nomaan%20Gagan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Front%20End%20Developer%20|%20AI/ML&descAlignY=60&descAlign=50)
 # Hi, I'm Nomaan 👋
 
 🎓 Computer Science (AI/ML) Student – RCOEM  
